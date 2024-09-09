@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Research Associate at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk/) at the University of Cambridge, where I work on [predictability](https://arxiv.org/abs/2310.06167) and [cognitive-oriented evaluation](https://www.lcfi.ac.uk/news-events/blog/post/cognitive-psychology-for-ai-evaluation) of AI systems, together with [Prof José Hernández-Orallo](http://josephorallo.webs.upv.es/) and [Dr Lucy Cheke](http://lcfi.ac.uk/people/lucy-cheke/).  
+
+I previously worked on [detecting lying in large language models](https://arxiv.org/abs/2309.15840) with [Dr Owain Evans](https://owainevans.github.io/) and on [technical standards for AI](https://artificialintelligenceact.eu/standard-setting/) for the [EU AI Act](https://artificialintelligenceact.eu/) at the [Future of Life Institute](https://futureoflife.org/). I am deeply interested in AI policy (particularly at the EU level).
+
+I obtained a PhD in Statistics and Machine Learning at Oxford, during which I worked on Bayesian simulation-based inference, generative models and probabilistic forecasting (with applications to meteorology). My supervisors were Prof. [Ritabrata Dutta](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/dutta/) (Uni. Warwick) and Prof. [Geoff Nicholls](https://www.stats.ox.ac.uk/people/geoff-nicholls) (Uni. Oxford). 
+
+Before my PhD studies, I obtained a Bachelor's degree in Physical Engineering from Politecnico di Torino (Italy) and an MSc in Physics of Complex Systems from Politecnico di Torino and Université Paris-Sud, France. I carried out my MSc thesis at [LightOn](https://lighton.ai/), a machine learning startup in Paris.
